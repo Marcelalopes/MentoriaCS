@@ -1,0 +1,16 @@
+C:\Mentoria C#\URI\1010\obj\Debug\net5.0\1010.csproj.AssemblyReference.cache
+C:\Mentoria C#\URI\1010\obj\Debug\net5.0\1010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mentoria C#\URI\1010\obj\Debug\net5.0\1010.AssemblyInfoInputs.cache
+C:\Mentoria C#\URI\1010\obj\Debug\net5.0\1010.AssemblyInfo.cs
+C:\Mentoria C#\URI\1010\obj\Debug\net5.0\1010.csproj.CoreCompileInputs.cache
+C:\Mentoria C#\URI\1010\bin\Debug\net5.0\1010.exe
+C:\Mentoria C#\URI\1010\bin\Debug\net5.0\1010.deps.json
+C:\Mentoria C#\URI\1010\bin\Debug\net5.0\1010.runtimeconfig.json
+C:\Mentoria C#\URI\1010\bin\Debug\net5.0\1010.runtimeconfig.dev.json
+C:\Mentoria C#\URI\1010\bin\Debug\net5.0\1010.dll
+C:\Mentoria C#\URI\1010\bin\Debug\net5.0\ref\1010.dll
+C:\Mentoria C#\URI\1010\bin\Debug\net5.0\1010.pdb
+C:\Mentoria C#\URI\1010\obj\Debug\net5.0\1010.dll
+C:\Mentoria C#\URI\1010\obj\Debug\net5.0\ref\1010.dll
+C:\Mentoria C#\URI\1010\obj\Debug\net5.0\1010.pdb
+C:\Mentoria C#\URI\1010\obj\Debug\net5.0\1010.genruntimeconfig.cache
