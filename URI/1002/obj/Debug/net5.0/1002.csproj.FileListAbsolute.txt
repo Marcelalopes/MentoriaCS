@@ -1,0 +1,16 @@
+C:\Mentoria C#\URI\1002\obj\Debug\net5.0\1002.csproj.AssemblyReference.cache
+C:\Mentoria C#\URI\1002\obj\Debug\net5.0\1002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mentoria C#\URI\1002\obj\Debug\net5.0\1002.AssemblyInfoInputs.cache
+C:\Mentoria C#\URI\1002\obj\Debug\net5.0\1002.AssemblyInfo.cs
+C:\Mentoria C#\URI\1002\obj\Debug\net5.0\1002.csproj.CoreCompileInputs.cache
+C:\Mentoria C#\URI\1002\bin\Debug\net5.0\1002.exe
+C:\Mentoria C#\URI\1002\bin\Debug\net5.0\1002.deps.json
+C:\Mentoria C#\URI\1002\bin\Debug\net5.0\1002.runtimeconfig.json
+C:\Mentoria C#\URI\1002\bin\Debug\net5.0\1002.runtimeconfig.dev.json
+C:\Mentoria C#\URI\1002\bin\Debug\net5.0\1002.dll
+C:\Mentoria C#\URI\1002\bin\Debug\net5.0\ref\1002.dll
+C:\Mentoria C#\URI\1002\bin\Debug\net5.0\1002.pdb
+C:\Mentoria C#\URI\1002\obj\Debug\net5.0\1002.dll
+C:\Mentoria C#\URI\1002\obj\Debug\net5.0\ref\1002.dll
+C:\Mentoria C#\URI\1002\obj\Debug\net5.0\1002.pdb
+C:\Mentoria C#\URI\1002\obj\Debug\net5.0\1002.genruntimeconfig.cache

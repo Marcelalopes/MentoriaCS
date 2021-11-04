@@ -1,0 +1,16 @@
+C:\Mentoria C#\MediaAritmetica\bin\Debug\net5.0\MediaAritmetica.exe
+C:\Mentoria C#\MediaAritmetica\bin\Debug\net5.0\MediaAritmetica.deps.json
+C:\Mentoria C#\MediaAritmetica\bin\Debug\net5.0\MediaAritmetica.runtimeconfig.json
+C:\Mentoria C#\MediaAritmetica\bin\Debug\net5.0\MediaAritmetica.runtimeconfig.dev.json
+C:\Mentoria C#\MediaAritmetica\bin\Debug\net5.0\MediaAritmetica.dll
+C:\Mentoria C#\MediaAritmetica\bin\Debug\net5.0\ref\MediaAritmetica.dll
+C:\Mentoria C#\MediaAritmetica\bin\Debug\net5.0\MediaAritmetica.pdb
+C:\Mentoria C#\MediaAritmetica\obj\Debug\net5.0\MediaAritmetica.csproj.AssemblyReference.cache
+C:\Mentoria C#\MediaAritmetica\obj\Debug\net5.0\MediaAritmetica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mentoria C#\MediaAritmetica\obj\Debug\net5.0\MediaAritmetica.AssemblyInfoInputs.cache
+C:\Mentoria C#\MediaAritmetica\obj\Debug\net5.0\MediaAritmetica.AssemblyInfo.cs
+C:\Mentoria C#\MediaAritmetica\obj\Debug\net5.0\MediaAritmetica.csproj.CoreCompileInputs.cache
+C:\Mentoria C#\MediaAritmetica\obj\Debug\net5.0\MediaAritmetica.dll
+C:\Mentoria C#\MediaAritmetica\obj\Debug\net5.0\ref\MediaAritmetica.dll
+C:\Mentoria C#\MediaAritmetica\obj\Debug\net5.0\MediaAritmetica.pdb
+C:\Mentoria C#\MediaAritmetica\obj\Debug\net5.0\MediaAritmetica.genruntimeconfig.cache
