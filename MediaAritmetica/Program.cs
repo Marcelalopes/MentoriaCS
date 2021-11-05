@@ -13,7 +13,7 @@ namespace MediaAritmetica
       name = Console.ReadLine();
 
       Console.WriteLine("Digite suas notas: ");
-      n1 = float.Parse(Console.ReadLine());//Dúvida: como ler mais de uma var em uma única linha?
+      n1 = float.Parse(Console.ReadLine());
       n2 = float.Parse(Console.ReadLine());
       n3 = float.Parse(Console.ReadLine());
 
@@ -22,7 +22,9 @@ namespace MediaAritmetica
 
       m = (n1 + n2 + n3) / 3;
 
-      resultado = (m >= m_min) ? "você foi aprovado!" : "você foi reprovado!";
+      resultado = (m >= m_min) ?
+      "você foi aprovado!" :
+      "você foi reprovado!";
       Console.Write(name + " " + resultado);
     }
   }

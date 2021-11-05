@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Mentoria C#\\URI\\1010\\1010.csproj": {}
+    "C:\\Mentoria C#\\uri\\1010\\1010.csproj": {}
   },
   "projects": {
-    "C:\\Mentoria C#\\URI\\1010\\1010.csproj": {
+    "C:\\Mentoria C#\\uri\\1010\\1010.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Mentoria C#\\URI\\1010\\1010.csproj",
+        "projectUniqueName": "C:\\Mentoria C#\\uri\\1010\\1010.csproj",
         "projectName": "1010",
-        "projectPath": "C:\\Mentoria C#\\URI\\1010\\1010.csproj",
+        "projectPath": "C:\\Mentoria C#\\uri\\1010\\1010.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Mentoria C#\\URI\\1010\\obj\\",
+        "outputPath": "C:\\Mentoria C#\\uri\\1010\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

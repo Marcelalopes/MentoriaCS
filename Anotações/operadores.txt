@@ -1,0 +1,35 @@
+Aritméticos:
++ adição
+- subtração
+* multiplicação
+/ divisão
+% módulo (resto da divisao)
+
+Relacionais:
+== igual
+!= diferente
+> maior q
+< menor q
+>= maior ou igual
+<= menor ou igual
+
+Lógico:
+&& and
+|| or
+! not
+
+ternário:
+teste lógico ? valor se verdadeiro : valor se falso;
+
+Aritméticos de atribuição reduzida:
++= mais igual
+-= menos igual
+*= vezes igual
+/= dividido igual
+%= modulo igual
+
+incrementais e decrementais:
+x++ (x+1)
+++x (1 + x)
+x-- (x - 1)
+--x (1-x)

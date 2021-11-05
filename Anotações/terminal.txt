@@ -1,0 +1,12 @@
+Criando um novo programa:
+dotnet new console --name nomedapasta
+
+Executando o programa:
+dotnet run
+obs: precisa está dentro da pasta do arquivo no terminal
+
+GitHub:
+git pull origin main (pega as atualizações da pasta)
+git add . (Adiciona todas as att da pasta)
+git commit -m "nomedocommit" (cria o commit)
+git push origin main (Sobe os arquivos pro git)
