@@ -23,8 +23,7 @@ namespace MediaAritmetica
       m = (n1 + n2 + n3) / 3;
 
       resultado = (m >= m_min) ?
-      "você foi aprovado!" :
-      "você foi reprovado!";
+      "você foi aprovado!" : "você foi reprovado!";
       Console.Write(name + " " + resultado);
     }
   }
