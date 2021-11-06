@@ -1,0 +1,11 @@
+2 - o segundo desafio consiste na criação de uma aplicação console para gerenciar filmes.
+              A base de dados pode ser local, no próprio código.
+              Ações que o usuário pode fazer:
+              - Cadastrar Filme
+                  - O filme precisa ter:Id, Nome, Data de Lançamento, 
+                  Duração em Minutos, Descrição.
+              - Alterar
+              - Listar todos os filmes ativos
+              - Detalhar Filme
+              - Desativar Filme
+              - Listar todos os filmes desativados

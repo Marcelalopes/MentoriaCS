@@ -1,0 +1,16 @@
+C:\Mentoria C#\Filmes\bin\Debug\net5.0\Filmes.exe
+C:\Mentoria C#\Filmes\bin\Debug\net5.0\Filmes.deps.json
+C:\Mentoria C#\Filmes\bin\Debug\net5.0\Filmes.runtimeconfig.json
+C:\Mentoria C#\Filmes\bin\Debug\net5.0\Filmes.runtimeconfig.dev.json
+C:\Mentoria C#\Filmes\bin\Debug\net5.0\Filmes.dll
+C:\Mentoria C#\Filmes\bin\Debug\net5.0\ref\Filmes.dll
+C:\Mentoria C#\Filmes\bin\Debug\net5.0\Filmes.pdb
+C:\Mentoria C#\Filmes\obj\Debug\net5.0\Filmes.csproj.AssemblyReference.cache
+C:\Mentoria C#\Filmes\obj\Debug\net5.0\Filmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mentoria C#\Filmes\obj\Debug\net5.0\Filmes.AssemblyInfoInputs.cache
+C:\Mentoria C#\Filmes\obj\Debug\net5.0\Filmes.AssemblyInfo.cs
+C:\Mentoria C#\Filmes\obj\Debug\net5.0\Filmes.csproj.CoreCompileInputs.cache
+C:\Mentoria C#\Filmes\obj\Debug\net5.0\Filmes.dll
+C:\Mentoria C#\Filmes\obj\Debug\net5.0\ref\Filmes.dll
+C:\Mentoria C#\Filmes\obj\Debug\net5.0\Filmes.pdb
+C:\Mentoria C#\Filmes\obj\Debug\net5.0\Filmes.genruntimeconfig.cache
