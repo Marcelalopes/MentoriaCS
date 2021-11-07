@@ -1,9 +1,0 @@
-Entrada:
-  Console.Read(); -- Sem quebra de linha
-  Console.ReadLine(); -- Com quebra de linha
-  obs: para valores inteiros ou ponto fluante, precisa converter:
-    x = int.Parse(Console.ReadLine());
-
-Saída:
-  Console.Write(); -- Sem quebra de linha
-  Console.Write(); -- Com quebra de linha
